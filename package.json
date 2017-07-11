@@ -1,0 +1,21 @@
+{
+  "name": "upholstary",
+  "version": "1.0.0",
+  "description": "Sitema para tapeçarias",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nykel/upholstery.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nykel Andersow",
+  "license": "ISC",
+  "dependencies": {
+    "material-ui": "^0.18.6",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-tap-event-plugin": "^2.0.1"
+  }
+}
